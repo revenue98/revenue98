@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Data Analysis.
+- 🤔 I'm interested in web security.
+
 <!--
 **revenue98/revenue98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
